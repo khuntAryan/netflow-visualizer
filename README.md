@@ -63,3 +63,6 @@ src/data/topologies.ts     topology data
 
 - This is a prototype. OSPF here is a simplified simulation, not a full protocol implementation.
 - Generated topologies come from an LLM, so review them before relying on them.
+
+
+<img width="1440" height="790" alt="Screenshot 2026-09-20 at 11 53 41 AM" src="https://github.com/user-attachments/assets/431aa3fe-d0b6-4606-8427-1721fd427717" />
