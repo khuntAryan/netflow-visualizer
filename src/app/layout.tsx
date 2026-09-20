@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "NetFlow Visualizer - Hackathon MVP",
+  title: "NetFlow Visualizer - AI Network Simulation",
   description: "A dynamic, browser-based network simulation tool.",
 };
 
